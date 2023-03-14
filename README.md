@@ -6,7 +6,7 @@
 ![](https://geps.dev/progress/100) Chapter 1 - 5 
 
 ## WEEK 2
-![](https://geps.dev/progress/0) Chapter 6 - 10
+![](https://geps.dev/progress/100) Chapter 6 - 10
 
 ## WEEK 3
 ![](https://geps.dev/progress/0) Chapter 11 - 15
